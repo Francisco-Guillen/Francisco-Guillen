@@ -1,4 +1,6 @@
-### Hi there 👋 [![](https://visitcount.itsvg.in/api?id=FranciscoGuillen2402&icon=0&color=0)](https://visitcount.itsvg.in)
+![github-header-image](https://github.com/Francisco-Guillen/Francisco-Guillen/assets/83434031/c4ba2697-dd28-48fb-b8f6-99b6edf7ad9d)
+
+[![](https://visitcount.itsvg.in/api?id=FranciscoGuillen2402&icon=0&color=0)](https://visitcount.itsvg.in)
 
 - 🔭 I’m currently studying for a **Master's Degree in Computer Science**
 - 🌱 I’m currently learning **AI and Machine Learning**
