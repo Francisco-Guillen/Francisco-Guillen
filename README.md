@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 [![](https://visitcount.itsvg.in/api?id=FranciscoGuillen2402&icon=0&color=0)](https://visitcount.itsvg.in)
 
 - 🔭 I’m currently studying for a **Master's Degree in Computer Science**
 - 🌱 I’m currently learning **AI and Machine Learning**
@@ -6,6 +6,10 @@
 - 💬 Ask me about **Technology and Personal Development**
 - 📫 How to reach me: **f.v.n.g.2001@gmail.com**
 - 😄 Pronouns: He/Him
+
+## About Me
+
+I've had a passion for computers ever since I was a child. I started my degree in Computer Engineering in 2019 and am currently pursuing a master's degree in the same field. My focus and interest lies mainly in Artificial Intelligence and Machine Learning, although I am open to exploring other areas within computer science. My main goal is to do a PhD, motivated by my insatiable thirst for knowledge and desire to contribute to technological advancement.
 
 
 ## 🌐 Socials:
