@@ -5,7 +5,6 @@
 - 👯 I’m looking to collaborate on **Ai/Machine Learning Projects**
 - 💬 Ask me about **Technology and Personal Development**
 - 📫 How to reach me: **f.v.n.g.2001@gmail.com**
-- 😄 Pronouns: He/Him
 
 ## About Me
 
