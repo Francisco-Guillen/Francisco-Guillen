@@ -5,6 +5,7 @@
 - 👯 I’m looking to collaborate on **Ai/Machine Learning Projects**
 - 💬 Ask me about **Technology and Personal Development**
 - 🗣 I speak **English, Portuguese and Spanish**
+- 📫 How to reach me: **f.v.n.g.2001@gmail.com**
 
 ## About Me
 
