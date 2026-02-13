@@ -29,8 +29,3 @@ Computer Vision & Deep Learning Engineer. Master's student @ University of Beira
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Francisco-Guillen&theme=dark&hide_border=false">
 </div>
-
-<h3>✍️ Random Dev Quote</h3>
-<div align="center">
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical">
-</div>
