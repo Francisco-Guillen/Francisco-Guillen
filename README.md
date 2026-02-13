@@ -1,6 +1,6 @@
 ![Header](./assets/github_header1.png)
 
-Computer Vision & Deep Learning Engineer. Master's student @ University of Beira Interior.
+Computer Vision & Deep Learning Engineer | Master's student @ University of Beira Interior
 
 - 🔭 Currently working on **Encryption-Protected Robust Watermarking System** to combat deepfakes
 - 🎓 Master's Thesis: **Estimating Cable Reel Volume using Computer Vision** (YOLO11, PyTorch, OpenCV, Flutter)
