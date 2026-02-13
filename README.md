@@ -31,5 +31,6 @@ Computer Vision & Deep Learning Engineer. Master's student @ University of Beira
 </div>
 
 <h3>✍️ Random Dev Quote</h3>
+<div align="center">
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical">
 </div>
